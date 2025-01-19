@@ -1,0 +1,106 @@
+{
+    "nombre": "AxisBot",
+    "descripcion": "El bot oficial de la comunidad chilena de Medal of Honor: Allied Assault. Aquí para ayudarte con torneos, guías, y todo lo que necesites para disfrutar del juego.",
+    "informacion_comunidad": {
+      "ubicacion": "Chile",
+      "plataformas_de_comunicacion": {
+        "teamspeak": "mohaax",
+        "whatsapp": {
+          "texto": "Únete a nuestro grupo de WhatsApp",
+          "enlace": "https://chat.whatsapp.com/BaLhaDWgmee10uU0lcaU9T"
+        }
+      },
+      "contacto": "comunidad.mohaax@gmail.com"
+    },
+    "como_volver_a_jugar": [
+      {
+        "paso": 1,
+        "descripcion": "Descarga el juego desde nuestra sección de descargas:",
+        "enlace": {
+          "texto": "Descargar Medal of Honor",
+          "url": "https://drive.usercontent.google.com/download?id=1vIffXqAhc14WgliZlzJPFwxuW4XSf8_d&export=download&authuser=0"
+        }
+      },
+      {
+        "paso": 2,
+        "descripcion": "Instala el anticheat Volute:",
+        "enlace": {
+          "texto": "Descargar Volute",
+          "url": "https://volute.io/"
+        }
+      },
+      {
+        "paso": 3,
+        "descripcion": "Crea una cuenta en Volute para obtener tu ID y API Key:",
+        "enlace": {
+          "texto": "Ir a Volute",
+          "url": "https://volute.io/"
+        }
+      },
+      {
+        "paso": 4,
+        "descripcion": "Descarga el TeamSpeak 3 para coordinar partidas:",
+        "enlace": {
+          "texto": "Descargar TeamSpeak 3",
+          "url": "https://www.teamspeak.com/es/downloads/#ts3client"
+        }
+      },
+      {
+        "paso": 5,
+        "descripcion": "Únete a nuestro servidor de TeamSpeak para coordinar las partidas: mohaax."
+      },
+      {
+        "paso": 6,
+        "descripcion": "Regístrate en nuestro sistema ladder y empieza a competir:",
+        "enlace": {
+          "texto": "Ir a sistema ladder",
+          "url": "http://mohaax.cl/ladder"
+        }
+      }
+    ],
+    "torneos": {
+      "proximos_eventos": [
+        {
+          "nombre": "Torneo Clan Death Bullets",
+          "fecha": "22 de Enero de 2025",
+          "descripcion": "Participa en el torneo con premios para los mejores jugadores y clanes de Chile.",
+          "registro": "Contacta a cualquier miembro del clan DB para registrarte."
+        }
+      ],
+      "resultados_pasados": [
+        {
+          "torneo": "Torneo Final 2024",
+          "ganador": "Clan Bgod"
+        }
+      ]
+    },
+    "descargas": [
+      {
+        "nombre": "Medal of Honor: Allied Assault",
+        "enlace": {
+          "texto": "Descargar Medal of Honor",
+          "url": "https://mohaax.cl/descargas/moh_aa"
+        }
+      },
+      {
+        "nombre": "Anticheat Volute",
+        "enlace": {
+          "texto": "Descargar Anticheat Volute",
+          "url": "https://volute.mohaa.org/download"
+        }
+      },
+      {
+        "nombre": "Mapas personalizados",
+        "enlace": {
+          "texto": "Descargar Mapas Personalizados",
+          "url": "https://mohaax.cl/descargas/mapas"
+        }
+      }
+    ],
+    "logros_comunidad": [
+      "Somos una comunidad con más de 20 años de existencia.",
+      "Cientos de torneos y Tarreos organizados a lo largo de nuestra historia.",
+      "Reconocida como la comunidad chilena más activa de MOHAA."
+    ]
+  }
+  
