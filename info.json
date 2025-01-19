@@ -23,10 +23,10 @@
       },
       {
         "paso": 2,
-        "descripcion": "Instala el anticheat Volute:",
+        "descripcion": "Instala el anticheat Volute dercarga el arhivo volute_latest.zip:",
         "enlace": {
           "texto": "Descargar Volute",
-          "url": "https://volute.io/"
+          "url": "https://dl.volute.io/downloads/"
         }
       },
       {
@@ -79,21 +79,21 @@
         "nombre": "Medal of Honor: Allied Assault",
         "enlace": {
           "texto": "Descargar Medal of Honor",
-          "url": "https://mohaax.cl/descargas/moh_aa"
+          "url": "https://drive.usercontent.google.com/download?id=1vIffXqAhc14WgliZlzJPFwxuW4XSf8_d&export=download&authuser=0"
         }
       },
       {
         "nombre": "Anticheat Volute",
         "enlace": {
           "texto": "Descargar Anticheat Volute",
-          "url": "https://volute.mohaa.org/download"
+          "url": "https://dl.volute.io/downloads/"
         }
       },
       {
-        "nombre": "Mapas personalizados",
+        "nombre": "TeamSpeak 3",
         "enlace": {
-          "texto": "Descargar Mapas Personalizados",
-          "url": "https://mohaax.cl/descargas/mapas"
+          "texto": "Descargar TS3",
+          "url": "https://www.teamspeak.com/es/downloads/#ts3client"
         }
       }
     ],
